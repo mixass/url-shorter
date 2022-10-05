@@ -18,4 +18,4 @@ Example ;
 http://localhost:3000/u/Gm7lx --> It will redirect to https://socialwoop.com
 
 Config ; 
-You can edit redirects on database.json
+You can edit redirects on data.json
